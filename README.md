@@ -15,6 +15,7 @@ For more information on using the starter on Pantheon Front-End Sites, visit
 [the Pantheon.io platform documentation](https://docs.pantheon.io/guides/decoupled/).
 
 This is to test branch update
+Updating base branch with this branch
 
 ## Getting Started
 
