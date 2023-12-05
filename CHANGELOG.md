@@ -1,5 +1,8 @@
 # @pantheon-systems/next-wordpress-starter
 
+##1.0.2
+Checking the branch table
+
 ##1.0.1
 Updating branch commit
 
