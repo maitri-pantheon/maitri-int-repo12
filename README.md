@@ -14,6 +14,8 @@ For detailed documentation on the Decoupled Kit Starters, visit
 For more information on using the starter on Pantheon Front-End Sites, visit
 [the Pantheon.io platform documentation](https://docs.pantheon.io/guides/decoupled/).
 
+This is to test branch update
+
 ## Getting Started
 
 The Next WordPress starter requires Node.js and is built and tested on the LTS
