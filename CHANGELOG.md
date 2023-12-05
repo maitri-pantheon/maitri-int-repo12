@@ -1,5 +1,8 @@
 # @pantheon-systems/next-wordpress-starter
 
+##1.0.2
+Updating branch commit for multi-e to check pull request open and close
+
 ##1.0.1
 Updating branch commit
 
